@@ -1,2 +1,2 @@
 # notes-java
-java知识总结和记录
+java知识笔记
